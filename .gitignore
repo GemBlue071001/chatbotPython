@@ -1,0 +1,104 @@
+# Byte-compiled files
+*.py[cod]
+*.pyo
+__pycache__/
+*.so
+
+# Virtual environment directories
+venv/
+env/
+
+# IDE and editor settings
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# macOS files
+.DS_Store
+*.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.old
+*.orig
+*.out
+
+# Test coverage reports
+htmlcov/
+.coverage
+*.cover
+*.coverage.*
+
+# pytest cache
+.cache/
+
+# MyPy cache
+.mypy_cache/
+
+# Bandit security scanner
+.bandit/
+
+# Build and distribution files
+build/
+dist/
+*.egg-info/
+.eggs/
+*.manifest
+*.spec
+
+# Docker-related files
+*.env
+.envrc
+
+# Environment files
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Compiled C extensions
+*.o
+*.obj
+*.dll
+*.class
+*.dylib
+*.jnilib
+*.lib
+
+# Generated documentation
+docs/_build/
+
+# Wheel files
+*.whl
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Coverage tool files
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+
+# Pyre type checker
+.pyre/
+
+# Flask instance folder
+instance/
+
+# Celery beat schedule file
+celerybeat-schedule
+
+# SQL database files
+*.sqlite3
+
+# Other common exclusions
+*.~*
+Thumbs.db
+*.pdf
